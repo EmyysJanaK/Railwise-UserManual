@@ -46,17 +46,11 @@ export default {
     ],
     // you can disable the previous and next page here
     docFooter: {
-      prev: false,
+      prev: true,
       next: true,
     },
-    editLink: {
-      pattern: 'https://github.com/Evavic44/adocs/edit/main/docs/:path',
-      text: 'Edit this page on GitHub'
-    },
-    footer: {
-      message: "Released under the MIT License.",
-      copyright: "Copyright © 2024-present Adocs",
-    },
+    
+    
     markdown: {
       theme: "material-palenight",
       lineNumbers: true,
