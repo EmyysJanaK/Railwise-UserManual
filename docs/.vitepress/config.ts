@@ -1,3 +1,5 @@
+import theme from "vitepress/theme";
+
 export default {
   title: "RailWise",
   description: "An awesome docs template built by me",
@@ -7,8 +9,8 @@ export default {
   ignoreDeadLinks: true,
   
   themeConfig: {
-    logo: "/logo.svg",
-    siteTitle: "Adocs",
+    logo: "./png/trainImage.png",
+    siteTitle: "RailWise",
     search: {
       provider: "local",
     },
@@ -30,7 +32,7 @@ export default {
         text: "Introduction",
         collapsible: false,
         items: [
-          { text: "Overview", link: "/overview" },
+          { text: "Overview", link: "/index" },
           
         ],
       },
@@ -38,7 +40,15 @@ export default {
         text: "Frequently Asked Questions",
         collapsible: false,
         items: [
-          { text: "FAQ", link: "/faq " },
+          { text: "FAQ", link: "/faq" },
+          
+        ],
+      },
+      {
+        text: "Login",
+        collapsible: false,
+        items: [
+          { text: "Login", link: "/login" },
           
         ],
       },
@@ -52,6 +62,10 @@ export default {
       next: true,
     },
     
+    appearance: {
+      theme: "material-palenight",
+      defaultMode: "dark",
+    },
     
     markdown: {
       theme: "material-palenight",

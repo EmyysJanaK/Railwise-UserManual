@@ -13,7 +13,7 @@ Railwise is an intuitive platform designed for effortless train bookings. You ca
 ### 2. **How do I reset my password?**
 
 If you've forgotten your password, follow these steps:
-- Navigate to the [login page](https://www.railwise.com/login).
+- Navigate to the [login page](https://railwise-web.onrender.com/login).
 - Click **Forgot your password?** below the login form.
 - Enter your registered email address.
 - You will receive an email with a link to reset your password.

@@ -33,9 +33,9 @@ npm run docs:build
 ```
 docs/
 ├── .vitepress/
-│   ├── config.js
+│   ├── config.ts
 │   └── theme/
-│       ├── index.js
+│       ├── index.ts
 │       └── custom.css
 ├── public/
 │   ├── logo.svg

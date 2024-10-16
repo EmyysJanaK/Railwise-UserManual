@@ -29,11 +29,19 @@ To book a ticket, follow these steps:
 
     ![banner](./png/1.png)
 
-2. **Select a Schedule**: Choose from available trains.
+2. **Select Your Schedule**: Choose from available trains.
 
     ![banner](./png/3.png)
 
-3. **Select Schedule and Class**: Choose from available trains, select your preferred class (e.g., first-class, second-class).
+
+
+::: info
+There is a Pop-Up message to register an account to track your bookings and get notifications.
+:::
+
+![banner](./png/popup.png)
+
+3. **Select Your Class**: Choose from available trains, select your preferred class (e.g., first-class, second-class).
 
     ![banner](./png/4.png)
 
