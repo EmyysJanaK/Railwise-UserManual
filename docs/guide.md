@@ -8,7 +8,7 @@ Documentation is essential for smooth user experiences, especially when managing
 
 ## Getting Started
 
-[Railwise](https://railwise.com) is a modern train booking system designed to simplify your travel planning. This guide will help you navigate the platform, providing insights into key features like searching schedules, selecting seats, and confirming bookings.
+[Railwise](https://railwise-web.onrender.com) is a modern train booking system designed to simplify your travel planning. This guide will help you navigate the platform, providing insights into key features like searching schedules, selecting seats, and confirming bookings.
 
 ## Register an account to track your bookings.
 - **Register an Account** 
