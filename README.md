@@ -5,9 +5,9 @@
 Use this command below to boot this project locally.
 
 ```bash
-git clone https://github.com/Evavic44/adocs.git
+git clone https://github.com/EmyysJanaK/Railwise-UserManual.git
 
-cd adocs
+cd Railwise-UserManual
 
 npm install
 
