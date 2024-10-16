@@ -13,7 +13,7 @@ Railwise is an intuitive platform designed for effortless train bookings. You ca
 ### 2. **How do I reset my password?**
 
 If you've forgotten your password, follow these steps:
-- Navigate to the [login page](#).
+- Navigate to the [login page](https://www.railwise.com/login).
 - Click **Forgot your password?** below the login form.
 - Enter your registered email address.
 - You will receive an email with a link to reset your password.
@@ -35,19 +35,19 @@ To book a ticket on Railwise:
 
 Yes, unregistered users can book tickets without an account. However, **registered users** benefit from:
 - Viewing booking history.
-- Accessing special promotions.
-- Easier booking modifications or cancellations.
+- Getting delay/platform changing notifications
+- Easier booking cancellations.
 
 ---
 
-### 5. **How do I cancel or modify a booking?**
+### 5. **How do I cancel a booking?**
 
 For registered users:
 1. Go to the **My Bookings** section.
-2. Select the booking you want to modify or cancel.
+2. Select the booking you want cancel.
 3. Follow the steps to make changes or cancel the booking.
 
-> **Note:** Cancellation or modification policies may vary depending on the train operator.
+> **Note:** Cancellation policies may vary depending on the train operator.
 
 ---
 
@@ -64,7 +64,6 @@ To view your booking history:
 Railwise supports a variety of payment methods, including:
 - **Credit cards**
 - **Debit cards**
-- **Mobile payments**
 
 Rest assured that all transactions are secured with encryption.
 

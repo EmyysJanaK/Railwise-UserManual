@@ -43,6 +43,8 @@ export default {
         ],
       },
       
+      
+
     ],
     // you can disable the previous and next page here
     docFooter: {
