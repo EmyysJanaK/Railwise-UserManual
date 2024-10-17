@@ -69,15 +69,9 @@ Rest assured that all transactions are secured with encryption.
 
 ---
 
-### 8. **How do I contact customer support?**
 
-If you encounter any issues, you can reach **Railwise** customer support by:
-- Sending an email to [support@railwise.com](mailto:support@railwise.com).
-- Visiting the **Help** section within your Railwise account for live assistance.
 
----
-
-### 9. **Is my data secure on Railwise?**
+### 8. **Is my data secure on Railwise?**
 
 Yes, your data is safe with us. Railwise employs industry-standard encryption to ensure that all your personal data and payment information are kept secure.
 
