@@ -44,14 +44,14 @@ export default {
           
         ],
       },
-      {
-        text: "Login",
-        collapsible: false,
-        items: [
-          { text: "Login", link: "/login" },
+      // {
+      //   text: "Login",
+      //   collapsible: false,
+      //   items: [
+      //     { text: "Login", link: "/login" },
           
-        ],
-      },
+      //   ],
+      // },
       
       
 
